@@ -18,3 +18,5 @@ I completed my Ph.D. in March 2023 at the Paris School of Economics (PSE) and Un
 On another spectrum, I am also interested in education policies and large-scale assessment and have joined the [PISA team](https://www.oecd.org/pisa/contacts/whoswhoinpisa.htm) at the OECD in January 2023 to work on the analysis of the results of PISA 2022. 
 
 __Research interests :__ Environmental Economics, Development Economics, Natural Resource Economics, Economics of Migration, Health Economics, Economics of Education. 
+
+[Download CV here](http://hu-irene.github.io/files/CV-irene-hu.pdf)
