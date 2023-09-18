@@ -22,7 +22,7 @@ The adoption of a capital intensive technology to extract natural resource, comp
 
 
 
- * Raw Materials Diplomacy, Official Development Finance and the Industrial Exploitation of Natural Resources in Africa (Draft available upon request)
+ * __Raw Materials Diplomacy, Official Development Finance and the Industrial Exploitation of Natural Resources in Africa__ (Draft available upon request)
 
 This paper investigates how official development finance from traditional and emerging donors influences the industrial exploitation of natural resources in Africa. Willingly or not, loans contribute to the local influence a donor country can have in a recipient country, and its companies can benefit from easier access to extract the recipient's natural resources. Using development finance flows panel data from the OECD countries, China, India and the Gulf countries on the one side, and novel data on industrial extraction of natural resources on the other side. Through an extended descriptive analysis, I find that official development flows from DAC and non-DAC countries are positively correlated with their capacity to conclude large-scale land acquisitions in Africa, over 2000-2014.
 
