@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-====
+
 Working papers
 ====
  * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://sites.google.com/view/melaniegittard/home) [Job Market Paper]
