@@ -19,7 +19,7 @@ On another spectrum, I am also interested in education policies and large-scale 
 
 __Research interests :__ Environmental Economics, Development Economics, Natural Resource Economics, Economics of Migration, Health Economics, Economics of Education. 
 
-[You can find my CV here.](../files/Resume-hu-irene.pdf)
+[You can find my CV here.](../files/Resume_Irene_HU.pdf)
 
 You can contact me at: irene.hu[at]psemail.eu
 
