@@ -7,10 +7,10 @@ redirect_from:
   - /publications
 ---
 
-
+====
 Working papers
 ====
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://sites.google.com/view/melaniegittard/home)
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://sites.google.com/view/melaniegittard/home) [Job Market Paper]
  
 Industrial mining can be a boon or a bane for communities living in the vicinity of production sites. We assess the environmental and health impacts of industrial mining in Africa using micro-data from 1986 to 2018 in 26 countries matched with geocoded data of industrial mining sites. Through a staggered difference-in-difference strategy, we exploit the variation of the opening of a mine and the relative topographic position of surrounding villages. Relying on an upstream-downstream topographic treatment, we show that opening an industrial mining site increases infant mortality and that this effect is driven by mining-induced water pollution.
 
