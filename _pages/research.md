@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 
-Working papers
+Job Market Paper
 ====
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://sites.google.com/view/melaniegittard/home) [Job Market Paper]
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard]([https://sites.google.com/view/melaniegittard/home](https://melaniegittard.github.io/)) 
  
 Industrial mining can be a boon or a bane for communities living in the vicinity of production sites. We assess the environmental and health impacts of industrial mining in Africa using micro-data from 1986 to 2018 in 26 countries matched with geocoded data of industrial mining sites. Through a staggered difference-in-difference strategy, we exploit the variation of the opening of a mine and the relative topographic position of surrounding villages. Relying on an upstream-downstream topographic treatment, we show that opening an industrial mining site increases infant mortality and that this effect is driven by mining-induced water pollution.
 
+
+Working papers
+====
 
 
  * __[Man Overboard! Industrial Fishing as a Driver of Migration Out of Africa](../files/Man_Overboard_HU_LIBOIS.pdf)__, with [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois)
