@@ -17,6 +17,8 @@ I completed my Ph.D. in March 2023 at the Paris School of Economics (PSE) and Un
 
 On another spectrum, I am also interested in education policies and large-scale assessment and have joined the [PISA team](https://www.oecd.org/pisa/contacts/whoswhoinpisa.htm) at the OECD since January 2023 to work on the analysis of the results of the PISA 2022 surveys. 
 
+__I am on the 2023/2024 Job Market.__ My Job Market Paper (../files/files/MiningLeaks_GITTARD_HU.pdf) shows that industrial mining increases by 25% the 2 year-old mortality rates in Africa through water pollution. 
+
 __Research interests :__ Environmental Economics, Development Economics, Natural Resource Economics, Economics of Migration, Health Economics, Economics of Education. 
 
 [You can find my CV here.](../files/Resume_Irene_HU.pdf)
