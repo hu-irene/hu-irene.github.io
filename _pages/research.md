@@ -10,10 +10,9 @@ redirect_from:
 
 Job Market Paper
 ====
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard]([https://sites.google.com/view/melaniegittard/home](https://melaniegittard.github.io/)) 
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://melaniegittard.github.io/) 
  
-Industrial mining can be a boon or a bane for communities living in the vicinity of production sites. We assess the environmental and health impacts of industrial mining in Africa using micro-data from 1986 to 2018 in 26 countries matched with geocoded data of industrial mining sites. Through a staggered difference-in-difference strategy, we exploit the variation of the opening of a mine and the relative topographic position of surrounding villages. Relying on an upstream-downstream topographic treatment, we show that opening an industrial mining site increases infant mortality and that this effect is driven by mining-induced water pollution.
-
+In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the scale of Africa, due to data limitation and non-random exposure. This paper investigates this question using a quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic Health Survey (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after opening and find a 25\% increase in 24-month mortality rates downstream. Children who drank water face a rise in 12-month mortality, confirming that water pollution drives the results. Our analysis rules out other mechanisms like fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, especially in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
 
 Working papers
 ====
