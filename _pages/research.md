@@ -31,12 +31,11 @@ This paper investigates how official development finance from traditional and em
 Publications
 ====
 
-* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), PISA, OECD Publishing, Paris. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
+* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
 
-* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf), OECD Publishing, Paris. with Eric Charbonnier
+* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf), _OECD Publishing, Paris_, with Eric Charbonnier
 
-* [Romania - Systematic Country Diagnostic Update, World Bank, 2023, Washington, D.C. :
-World Bank Group](https://documents1.worldbank.org/curated/en/099134003102323181/pdf/BOSIB0480d508207e0805908b215a1d78b8.pdf)
+* [Romania - Systematic Country Diagnostic Update,](https://documents1.worldbank.org/curated/en/099134003102323181/pdf/BOSIB0480d508207e0805908b215a1d78b8.pdf) _World Bank, 2023, Washington, D.C. : World Bank Group,_
 led by Nga Thi Viet Nguyen and Emilija Timmis.
 
 * [EU Regular Economic Report 8: Living Up to Potential in the Wake of Adverse Shocks - Part 1](https://documents1.worldbank.org/curated/en/099010007142218777/pdf/P177597091529409d09e9107f38ffc27935.pdf), _World Bank report on the European Union_, _2022_, with Mona Prasad, Emilija Timmis, Collette Mari Wheeler, Andrei Silviu Dospinescu,  Kristina Vaughan, Samuel Freije-Rodriguez, Nga Thi Viet Nguyen, Reena Badiani-Magnusson,  Leonardo Iacovone, Lukasz Marek Marc, Natasha Kapil and Matija Laco. 
