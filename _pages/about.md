@@ -15,7 +15,7 @@ I am an __applied economist__ interested in __environment, natural resources, mi
 
 I completed my Ph.D. in March 2023 at the __Paris School of Economics (PSE) and Université Paris I Panthéon-Sorbonne__. I worked under the supervision of [Fabrice Etilé](https://sites.google.com/site/fabriceetile) (PSE/INRAE) and [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois) (PSE/INRAE). In my thesis, I study the __determinants and consequences of the industrial exploitation of natural resources in Africa__, at the micro and macro level. 
 
-On another spectrum, I am also interested in __education policies__ and large-scale assessment and have joined the [PISA team](https://www.oecd.org/pisa/contacts/whoswhoinpisa.htm) at the __OECD__ since January 2023 to work on the analysis of the results of the PISA 2022 surveys (public launch on December 5th, 2023!). 
+On another spectrum, I am also interested in __education policies__ and large-scale assessment and have joined the [PISA team](https://www.oecd.org/pisa/contacts/whoswhoinpisa.htm) at the __OECD__ since January 2023 to work on the analysis of the PISA 2022 results ([Volume II - Learning During – and From – Disruption](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-ii_a97db61c-en), as well as the [country note for France](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf)). 
 
 __I am on the 2023/2024 Job Market.__ My [Job Market Paper](../files/MiningLeaks_GITTARD_HU.pdf) shows that industrial mining in Africa increases by 25% the 2 year-old mortality rates downstream, providing indirect evidence of water pollution. 
 
