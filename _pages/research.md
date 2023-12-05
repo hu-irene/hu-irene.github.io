@@ -31,9 +31,9 @@ This paper investigates how official development finance from traditional and em
 Publications
 ====
 
-* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption, PISA, OECD Publishing, Paris.](https://doi.org/10.1787/a97db61c-en) with Miyako Ikeda, Hannah Ulferts and Alfonso Echazarra. 
+* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), PISA, OECD Publishing, Paris. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
 
-* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022, OECD Publishing, Paris.](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf) with Eric Charbonnier
+* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf), OECD Publishing, Paris. with Eric Charbonnier
 
 * [Romania - Systematic Country Diagnostic Update, World Bank, 2023, Washington, D.C. :
 World Bank Group](https://documents1.worldbank.org/curated/en/099134003102323181/pdf/BOSIB0480d508207e0805908b215a1d78b8.pdf)
