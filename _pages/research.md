@@ -31,6 +31,14 @@ This paper investigates how official development finance from traditional and em
 Publications
 ====
 
+* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption, PISA, OECD Publishing, Paris.](https://doi.org/10.1787/a97db61c-en)
+
+*[Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022, OECD Publishing, Paris.](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf)
+
+*[Romania - Systematic Country Diagnostic Update, World Bank, 2023, Washington, D.C. :
+World Bank Group](https://documents1.worldbank.org/curated/en/099134003102323181/pdf/BOSIB0480d508207e0805908b215a1d78b8.pdf)
+led by Nga Thi Viet Nguyen and Emilija Timmis.
+
 * [EU Regular Economic Report 8: Living Up to Potential in the Wake of Adverse Shocks - Part 1](https://documents1.worldbank.org/curated/en/099010007142218777/pdf/P177597091529409d09e9107f38ffc27935.pdf), _World Bank report on the European Union_, _2022_, with Mona Prasad, Emilija Timmis, Collette Mari Wheeler, Andrei Silviu Dospinescu,  Kristina Vaughan, Samuel Freije-Rodriguez, Nga Thi Viet Nguyen, Reena Badiani-Magnusson,  Leonardo Iacovone, Lukasz Marek Marc, Natasha Kapil and Matija Laco. 
 
 * [Prices, Patents and Access to Drugs: Views on Equity and Efficiency in the Global Pharmaceutical Industry](https://www.cairn.info/revue-francaise-des-affaires-sociales-2018-3-page-249.htm) with Quentin Cavalan, Maud Hazan and Roxane Zighed,  _Revue française des affaires sociales 2018/3_
