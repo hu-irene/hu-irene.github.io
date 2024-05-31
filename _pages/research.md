@@ -7,16 +7,12 @@ redirect_from:
   - /publications
 ---
 
-
-Job Market Paper
-====
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://melaniegittard.github.io/) 
- 
-In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the continental scale of Africa, due to data limitation and non-random exposure. This paper investigates this question using a new quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic and Health Surveys (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after their opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children who were no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms like fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, is higher in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
-
 Working papers
 ====
 
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](../files/MiningLeaks_GITTARD_HU.pdf)__, with [Mélanie Gittard](https://melaniegittard.github.io/) 
+ 
+In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the continental scale of Africa, due to data limitation and non-random exposure. This paper investigates this question using a new quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic and Health Surveys (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after their opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children who were no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms like fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, is higher in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
 
  * __[Man Overboard! Industrial Fishing as a Driver of Migration Out of Africa](../files/Man_Overboard_HU_LIBOIS.pdf)__, with [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois)
  
@@ -30,6 +26,7 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
+* [OECD (2024), Managing screen time: How to protect and equip students against distraction]( https://doi.org/10.1787/7c225af4-en), _PISA in Focus, No. 124, OECD Publishing, Paris_. written with Andreea Minea-Pic. 
 
 * [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
 
