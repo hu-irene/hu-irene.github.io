@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website!
 
 
-I am an __environmental economist__ interested in __natural resources, pollution, health and migration__. I recently joined the OECD Environment Directorate (ENV), Environment and Economy Integration Divistion (EEI).  
+I am an __environmental economist__ interested in __natural resources, pollution, health and migration__. I recently joined the OECD Environment Directorate (ENV), Environment and Economy Integration Division (EEI).  
 
 I completed my Ph.D. in March 2023 at the __Paris School of Economics (PSE) and Université Paris I Panthéon-Sorbonne__. I worked under the supervision of [Fabrice Etilé](https://sites.google.com/site/fabriceetile) (PSE/INRAE) and [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois) (PSE/INRAE). In my thesis, I study the __determinants and consequences of the industrial exploitation of natural resources in Africa__, at the micro and macro level. 
 
