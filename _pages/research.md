@@ -26,7 +26,7 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
-* [OECD (2024), Managing screen time: How to protect and equip students against distraction]( https://doi.org/10.1787/7c225af4-en), _PISA in Focus, No. 124, OECD Publishing, Paris_. written with Andreea Minea-Pic. 
+* [OECD (2024), Managing screen time: How to protect and equip students against distraction]( https://doi.org/10.1787/7c225af4-en), _PISA in Focus, No. 124, OECD Publishing, Paris_ with Andreea Minea-Pic. 
 
 * [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
 
