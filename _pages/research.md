@@ -26,11 +26,11 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
-* [OECD (2024), Managing screen time: How to protect and equip students against distraction]( https://doi.org/10.1787/7c225af4-en), _PISA in Focus, No. 124, OECD Publishing, Paris_ with Andreea Minea-Pic. 
+* [OECD (2024), Managing screen time: How to protect and equip students against distraction](https://doi.org/10.1787/7c225af4-en](https://www.oecd.org/en/publications/managing-screen-time_7c225af4-en.html), _PISA in Focus, No. 124, OECD Publishing, Paris_ with Andreea Minea-Pic. 
 
-* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
+* [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en](https://www.oecd.org/en/publications/pisa-2022-results-volume-ii_a97db61c-en.html), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
 
-* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022](https://www.oecd.org/pisa/publications/Countrynote_FRA_French.pdf), _OECD Publishing, Paris_, with Eric Charbonnier
+* [Programme International pour le suivi des acquis des élèves (PISA) : Principaux résultats pour la France du PISA 2022](https://hu-irene.github.io/files/Countrynote_FRA_French.pdf), _OECD Publishing, Paris_, with Eric Charbonnier
 
 * [Romania - Systematic Country Diagnostic Update,](https://documents1.worldbank.org/curated/en/099134003102323181/pdf/BOSIB0480d508207e0805908b215a1d78b8.pdf) _World Bank, 2023, Washington, D.C. : World Bank Group,_
 led by Nga Thi Viet Nguyen and Emilija Timmis.
