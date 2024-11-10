@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my personal website!
 
 
-I am an __environmental economist__ working at the OECD Environment Directorate. I am interested in __natural resources, climate change adaptation, pollution, health and migration__.   
+I am an __environmental economist__ working at the Environment and Economic Integration Division of the OECD Environment Directorate. I am interested in __natural resources, climate change adaptation, pollution, health and migration__.   
 
 I completed my Ph.D. in 2023 at the __Paris School of Economics (PSE) and Université Paris I Panthéon-Sorbonne__. I worked under the supervision of [Fabrice Etilé](https://sites.google.com/site/fabriceetile) (PSE/INRAE) and [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois) (PSE/INRAE). In my thesis, I studied the __determinants and consequences of the industrial exploitation of natural resources in Africa__, at the micro and macro level. 
 
