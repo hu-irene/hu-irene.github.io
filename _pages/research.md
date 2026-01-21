@@ -26,6 +26,8 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
+* [OECD (2025), Environmental Outlook on the Triple Planetary Crisis: Stakes, Evolution and Policy Linkages](https://www.oecd.org/en/publications/environmental-outlook-on-the-triple-planetary-crisis_257ffbb6-en.html), OECD Environmental Outlook, OECD Publishing, Paris.
+   
 * [OECD (2024), Managing screen time: How to protect and equip students against distraction](https://www.oecd.org/en/publications/managing-screen-time_7c225af4-en.html), _PISA in Focus, No. 124, OECD Publishing, Paris_ with Andreea Minea-Pic. 
 
 * [OECD (2023), PISA 2022 Results (Volume II): Learning During – and From – Disruption](https://www.oecd.org/en/publications/pisa-2022-results-volume-ii_a97db61c-en.html), _PISA, OECD Publishing, Paris_. Led by Miyako Ikeda and written with Hannah Ulferts and Alfonso Echazarra. 
@@ -40,3 +42,4 @@ led by Nga Thi Viet Nguyen and Emilija Timmis.
 * [Prices, Patents and Access to Drugs: Views on Equity and Efficiency in the Global Pharmaceutical Industry](https://www.cairn.info/revue-francaise-des-affaires-sociales-2018-3-page-249.htm) with Quentin Cavalan, Maud Hazan and Roxane Zighed,  _Revue française des affaires sociales 2018/3_
 
 * [Benefits of Fiscal Policies on Sugar-Sweetened Beverages](http://www.cajms.mn/journal/view.html?doi=10.24079/CAJMS.2017.11.003) with Undram Mandakh, Erdenechimeg Erdenebayar, Khorolmaa Bold, Tseden Purevdorj and Chimedsuren Ochir, _Central Asian Journal of Medical Sciences_, _2017_
+
