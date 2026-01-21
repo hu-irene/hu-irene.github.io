@@ -10,7 +10,7 @@ redirect_from:
 Working papers
 ====
 
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](https://shs.hal.science/halshs-04685390)__, with [Mélanie Gittard](https://melaniegittard.github.io/) (submitted)
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](https://shs.hal.science/halshs-04685390)__, with [Mélanie Gittard](https://melaniegittard.github.io/) (_submitted_)
  
 In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the continental scale of Africa, due to data limitation and non-random exposure. This paper investigates this question using a new quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic and Health Surveys (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after their opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children who were no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms like fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, is higher in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
 
@@ -42,5 +42,6 @@ led by Nga Thi Viet Nguyen and Emilija Timmis.
 * [Prices, Patents and Access to Drugs: Views on Equity and Efficiency in the Global Pharmaceutical Industry](https://www.cairn.info/revue-francaise-des-affaires-sociales-2018-3-page-249.htm) with Quentin Cavalan, Maud Hazan and Roxane Zighed,  _Revue française des affaires sociales 2018/3_
 
 * [Benefits of Fiscal Policies on Sugar-Sweetened Beverages](http://www.cajms.mn/journal/view.html?doi=10.24079/CAJMS.2017.11.003) with Undram Mandakh, Erdenechimeg Erdenebayar, Khorolmaa Bold, Tseden Purevdorj and Chimedsuren Ochir, _Central Asian Journal of Medical Sciences_, _2017_
+
 
 
