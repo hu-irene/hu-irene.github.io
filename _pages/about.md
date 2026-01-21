@@ -13,7 +13,7 @@ Welcome to my personal website!
 
 I am an __environmental economist__ working at the Environment and Economic Integration Division of the OECD Environment Directorate. I am interested in __natural resources, climate change adaptation, pollution, health and migration__.   
 
-We have recently published the [OECD Environmental Outlook on the Triple Planetary Crisis](https://www.oecd.org/en/publications/environmental-outlook-on-the-triple-planetary-crisis_257ffbb6-en.html) that examines in detail the interlocking trends and drivers of climate change, biodiversity loss and pollution, projects how they will evolve through mid-century, and examines policy synergies and trade-offs. It also provides a roadmap to help governments tackle these challenges in a more integrated manner. 
+We have recently published the [OECD Environmental Outlook on the Triple Planetary Crisis](https://www.oecd.org/en/publications/environmental-outlook-on-the-triple-planetary-crisis_257ffbb6-en.html) that examines in detail the interlocking trends and drivers of __climate change, biodiversity loss and pollution__, projects how they will evolve through mid-century, and examines policy synergies and trade-offs. It also provides a roadmap to help governments tackle these challenges in a more integrated manner. 
 
 I completed my Ph.D. in 2023 at the __Paris School of Economics (PSE) and Université Paris I Panthéon-Sorbonne__. I worked under the supervision of [Fabrice Etilé](https://sites.google.com/site/fabriceetile) (PSE/INRAE) and [François Libois](https://www.parisschoolofeconomics.eu/fr/libois-francois) (PSE/INRAE). In my thesis, I studied the __determinants and consequences of the industrial exploitation of natural resources in Africa__, at the micro and macro level. 
 
