@@ -10,7 +10,7 @@ redirect_from:
 Working papers
 ====
 
- * __[MiningLeaks: Water Pollution and Child Mortality in Africa](https://shs.hal.science/halshs-04685390)__, with [Mélanie Gittard](https://melaniegittard.github.io/) (_submitted_)
+ * __[MiningLeaks: Water Pollution and Child Mortality in Africa](https://shs.hal.science/halshs-04685390)__, with [Mélanie Gittard](https://melaniegittard.github.io/) (_Under review_)
  
 In the midst of Africa's mining boom, communities downstream from industrial mines face increased exposure to toxic waste. Yet, the effects of induced water pollution on the local population’s health have not been quantified at the continental scale of Africa, due to data limitation and non-random exposure. This paper investigates this question using a new quasi-experimental design and a novel dataset detailing the location and opening dates of all known industrial mines, obtained through intensive manual data collection. We combine geo-coded information on 2,016 industrial mines with health outcomes from the Demographic and Health Surveys (DHS) from 1986 to 2018 in 26 African countries. Through a staggered difference-in-difference strategy, we compare villages downstream and upstream of mines before and after their opening and find a 25% increase in 24-month mortality rates downstream. The effect is mainly observed among children who were no longer breastfed, confirming that water pollution drives the results. Our analysis rules out other mechanisms like fertility changes, access to facilities, in-migration, conflicts and income effects. The impact intensifies during mine operation and high international mineral prices, is higher in densely mined regions, and fades out with distance. From a public policy perspective, this paper underscores the significant local costs of mine openings on the environment and the health of the surrounding populations.
 
@@ -26,6 +26,12 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
+
+* [Valuing a reduction in the risk of miscarriage: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 271, OECD Publishing, Paris, 2026_. with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
+   
+* [Valuing a reduction in the risk of an underactive thyroid: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 272, OECD Publishing, Paris, 2026_. with Heini Ahtiainen, Richard Dubourg, Damien Dussaux, Väinö Nurmi, Elvia Rufo Jimenez and Christoph Rheinberger.
+
+ 
 * [OECD (2025), Environmental Outlook on the Triple Planetary Crisis: Stakes, Evolution and Policy Linkages](https://www.oecd.org/en/publications/environmental-outlook-on-the-triple-planetary-crisis_257ffbb6-en.html), OECD Environmental Outlook, OECD Publishing, Paris.
    
 * [OECD (2024), Managing screen time: How to protect and equip students against distraction](https://www.oecd.org/en/publications/managing-screen-time_7c225af4-en.html), _PISA in Focus, No. 124, OECD Publishing, Paris_ with Andreea Minea-Pic. 
