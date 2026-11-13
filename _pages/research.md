@@ -26,6 +26,11 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
+* [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026_. with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
+
+* [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026_. with Rose Mba Mébiame, Heini Ahtiainen  Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
+  
+* [Valuing a reduction in the risk of skin sensitisation: A large-scale multi-country stated preference approach](https://doi.org/10.1787/fc305de9-en), _OECD Environment Working Papers, No. 277, OECD Publishing, Paris, 2026_. with Davide Contu, Chiara Sotis, Giles Atkinson, Vincent Chung, Damien Dussaux, Stavros Georgiou and Susana Mourato.
 
 * [Valuing a reduction in the risk of miscarriage: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 271, OECD Publishing, Paris, 2026_. with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
    
