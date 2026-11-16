@@ -26,15 +26,15 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
-* [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026_. with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
+* [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026,_ with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
 
-* [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026_. with Rose Mba Mébiame, Heini Ahtiainen  Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
+* [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026, with Rose Mba Mébiame, Heini Ahtiainen, Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
   
-* [Valuing a reduction in the risk of skin sensitisation: A large-scale multi-country stated preference approach](https://doi.org/10.1787/fc305de9-en), _OECD Environment Working Papers, No. 277, OECD Publishing, Paris, 2026_. with Davide Contu, Chiara Sotis, Giles Atkinson, Vincent Chung, Damien Dussaux, Stavros Georgiou and Susana Mourato.
+* [Valuing a reduction in the risk of skin sensitisation: A large-scale multi-country stated preference approach](https://doi.org/10.1787/fc305de9-en), _OECD Environment Working Papers, No. 277, OECD Publishing, Paris, 2026_, with Davide Contu, Chiara Sotis, Giles Atkinson, Vincent Chung, Damien Dussaux, Stavros Georgiou and Susana Mourato.
 
-* [Valuing a reduction in the risk of miscarriage: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 271, OECD Publishing, Paris, 2026_. with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
+* [Valuing a reduction in the risk of miscarriage: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 271, OECD Publishing, Paris, 2026_, with Chris Dockins, Damien Dussaux, Chau-Man Fung, Stavros Georgiou, Charles Griffiths and Nathalie Simon.
    
-* [Valuing a reduction in the risk of an underactive thyroid: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 272, OECD Publishing, Paris, 2026_. with Heini Ahtiainen, Richard Dubourg, Damien Dussaux, Väinö Nurmi, Elvia Rufo Jimenez and Christoph Rheinberger.
+* [Valuing a reduction in the risk of an underactive thyroid: A large-scale multi-country stated preference approach](https://doi.org/10.1787/23bb6643-en), _OECD Environment Working Papers, No. 272, OECD Publishing, Paris, 2026_, with Heini Ahtiainen, Richard Dubourg, Damien Dussaux, Väinö Nurmi, Elvia Rufo Jimenez and Christoph Rheinberger.
 
  
 * [OECD (2025), Environmental Outlook on the Triple Planetary Crisis: Stakes, Evolution and Policy Linkages](https://www.oecd.org/en/publications/environmental-outlook-on-the-triple-planetary-crisis_257ffbb6-en.html), OECD Environmental Outlook, OECD Publishing, Paris.
