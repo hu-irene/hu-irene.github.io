@@ -26,7 +26,7 @@ This paper investigates how official development finance from traditional and em
 
 Publications
 ====
-* [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026,_ with Olof Byström, Eeva Leinala, Rose Mba Mébiame, Isadora Nebot and Christoph Rheinberger.
+* [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026,_ with Olof Byström, Isadora Nebot, Eeva Leinala, Rose Mba Mébiame, and Christoph Rheinberger.
 
 * [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026, with Rose Mba Mébiame, Heini Ahtiainen, Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
   
