@@ -28,7 +28,7 @@ Publications
 ====
 * [Economic Valuation of Chemicals-Related Health Effects: A Practical Guide to Quantifying Morbidity Effects in Environmental Cost-Benefit Analysis](https://doi.org/10.1787/b58b7451-en), _OECD Publishing, Paris, 2026,_ with Olof Byström, Isadora Nebot, Eeva Leinala, Rose Mba Mébiame, and Christoph Rheinberger.
 
-* [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026, with Rose Mba Mébiame, Heini Ahtiainen, Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
+* [Benefit transfer of willingness-to-pay estimates for avoiding negative chemicals-related health effects](https://doi.org/10.1787/f11379a0-en), _OECD Publishing, Paris, 2026_, with Rose Mba Mébiame, Heini Ahtiainen, Olof Byström, Christoph Rheinberger, Charles Griffiths and Damien Dussaux.
   
 * [Valuing a reduction in the risk of skin sensitisation: A large-scale multi-country stated preference approach](https://doi.org/10.1787/fc305de9-en), _OECD Environment Working Papers, No. 277, OECD Publishing, Paris, 2026_, with Davide Contu, Chiara Sotis, Giles Atkinson, Vincent Chung, Damien Dussaux, Stavros Georgiou and Susana Mourato.
 
